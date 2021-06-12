@@ -1,0 +1,19 @@
+.home {
+  display: flex;
+  flex-direction: column;
+}
+.home1 {
+  background-color: cadetblue;
+}
+.products {
+  display: flex;
+  justify-content: space-evenly;
+}
+.footer {
+  background-color: cadetblue;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  justify-content: center;
+}
